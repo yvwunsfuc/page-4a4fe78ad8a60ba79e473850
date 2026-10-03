@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "7046d3be56f8977ed666f8f2",
+  "owner": "yvwunsfuc",
+  "repo": "page-4a4fe78ad8a60ba79e473850",
+  "title": "腾龙加速器",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "4a4fe78ad8a60ba79e473850",
+      "a": "腾龙加速器",
+      "b": "",
+      "entity": "腾龙加速器",
+      "brand": "腾龙加速器",
+      "separator": "",
+      "path": "index.html",
+      "hash": "d7e9358553ba179d6d3cae00741ab4d126b8e2b92e3499b1e14eb0c41c71e025",
+      "content": {
+        "keyword1": "腾龙加速器",
+        "keyword2": "",
+        "primary_entity": "腾龙加速器",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "腾龙加速器是面向个人与团队的网络加速服务，提供多档套餐、机场订阅与全平台客户端下载，助力流媒体、游戏与跨境办公，欢迎访问官网了解套餐与使用方法。",
+          "AI_DESCRIPTION": "腾龙加速器是面向个人与团队的网络加速服务，提供多档套餐、机场订阅与全平台客户端下载，助力流媒体、游戏与跨境办公，欢迎访问官网了解套餐与使用方法。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>html{box-sizing:border-box}*,*:before,*:after{box-sizing:inherit}body{margin:0;background:#071422;color:#d8eef4;font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,sans-serif;font-size:16px;line-height:1.75}a{color:#00e5ff;text-decoration:none}a:hover{color:#b2ffff}header{background:#0a1c2e;border-bottom:1px solid #0e7490;padding:10px 12px}header nav{display:flex;flex-wrap:wrap;gap:8px 14px;justify-content:center;max-width:1100px;margin:0 auto}header nav a{padding:6px 4px;font-size:15px}main{max-width:1100px;margin:0 auto;padding:12px 16px 40px}h1{color:#7ee8ff;font-size:1.85rem;text-align:center;margin:20px 0 8px;letter-spacing:.02em}h2{color:#5ee0f0;font-size:1.35rem;margin:8px 0 14px;padding-left:10px;border-left:4px solid #00bcd4}h3{color:#9be7f0;font-size:1.12rem;margin:16px 0 8px}.lead{text-align:center;color:#b7dbe4;margin:0 auto 24px;max-width:46em}.section{background:#0c2438;border-radius:10px;padding:18px 18px 22px;margin:22px 0;border:1px solid #12344c}.stagger{display:flex;flex-wrap:wrap;gap:18px;align-items:stretch}.stagger .col{flex:1 1 280px}.stagger .aside{flex:1 1 220px;background:#082636;border:1px solid #0e6b7a;border-radius:8px;padding:14px 16px}.reverse{flex-direction:row-reverse}.aside h3{margin-top:0}.plans{display:flex;flex-wrap:wrap;gap:14px;justify-content:center}.plan{flex:1 1 250px;background:#102a43;border:1px solid #1b4f72;border-radius:10px;padding:16px 16px 18px}.plan.featured{border:2px solid #00e5ff;background:#0e3348}.plan .name{font-size:1.2rem;color:#7ee8ff;margin:0 0 6px}.plan .price{font-size:1.45rem;color:#00e8ff;margin:0}.plan .annual{color:#9ad7e0;font-size:.95rem;margin:4px 0 10px}.plan ul{margin:0;padding-left:18px}.note{color:#9bb8c2;font-size:.95rem}#faq{border-color:#00bcd4}#faq h2{border-left-color:#00e5ff}details{background:#081c2c;border:1px solid #145 co 0e5a6a;border-radius:8px;padding:10px 12px;margin:10px 0}details summary{color:#6fe4f5;font-weight:600}details p{margin:8px 0 4px;color:#cfe8ee}ul.clean{margin:0;padding-left:18px}.steps{margin:0;padding-left:20px}.ad{margin:18px 0;padding:14px;text-align:center;border:1px dashed #148a9a;background:#091a28;border-radius:8px;color:#a9d4dc}.sitemap,.friends{display:flex;flex-wrap:wrap;gap:8px 14px;justify-content:center;margin:10px 0}footer{background:#051018;color:#8aaab4;text-align:center;padding:22px 14px 28px;font-size:.92rem}footer p{margin:8px 0}@media (max-width:720px){h1{font-size:1.5rem}.stagger,.reverse{flex-direction:column}.plan{flex-basis:100%}header nav a{font-size:14px}main{padding:10px 12px 28px}}</style><header><nav><a href=\"#about\">品牌简介</a><a href=\"#plans\">套餐方案</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">操作说明</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a><a href=\"#sitemap\">网站地图</a></nav></header><main><h1>腾龙加速器</h1><p class=\"lead\">腾龙加速器官方网站提供网络加速、机场订阅与多端客户端下载服务，面向办公、流媒体与游戏等场景，帮助用户以更稳定的方式连接所需线路。</p><section class=\"section\" id=\"about\"><h2>品牌简介</h2><div class=\"stagger\"><div class=\"col\"><p>腾龙加速器是一款以稳定性与易用性为核心的网络加速服务。用户可在官网完成套餐了解、机场订阅获取以及 Windows、macOS、Android、iOS 等客户端下载。我们把线路质量、设备配额与客服响应写进套餐说明，避免空泛承诺。</p><p>服务覆盖普通节点池与更高规格的专线能力。基础使用以浏览与轻度解锁为主；对画质、延迟更敏感的用户可选择含原生流媒体解锁与 IPLC 游戏优化的方案。团队用户则可按设备规模与流量峰值选择更高配额。</p><p>本站页面用于说明腾龙加速器的定位、价格档位、使用方法与常见疑问。所有下载与订阅操作请以官网公示入口为准，勿通过来路不明的镜像安装客户端。</p></div><div class=\"aside\"><h3>官网能做什么</h3><ul class=\"clean\"><li>查看三档套餐与年付说明</li><li>了解机场订阅导入方式</li><li>按系统选择客户端下载指引</li><li>对照场景选择节点能力</li><li>阅读常见问题与排障思路</li></ul></div></div></section><section class=\"section\" id=\"plans\"><h2>套餐方案</h2><p class=\"note\">以下为腾龙加速器当前展示档位，便于对照流量、设备数与线路能力。旗舰版适合大多数个人重度使用。</p><div class=\"plans\"><article class=\"plan\"><h3 class=\"name\">基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"plan featured\"><h3 class=\"name\">旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"plan\"><h3 class=\"name\">团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div></section><section class=\"section\" id=\"scenes\"><h2>使用场景</h2><div class=\"stagger reverse\"><div class=\"col\"><h3>跨境办公与协作</h3><p>远程会议、云盘同步与海外办公套件对链路抖动敏感。腾龙加速器可通过更稳定的出口降低卡顿，适合需要长时间在线的个人与小团队。团队版还支持更多终端同时在线，减少争抢配额。</p><h3>流媒体观看</h3><p>旗舰版强调全节点原生流媒体解锁，减少因地区策略导致的播放失败。若遇个别平台风控，可更换节点并清理本地 DNS 后再试。</p><h3>游戏与实时对战</h3><p>旗舰版含 IPLC 专线游戏加速优化，有助于降低丢包。建议国内业务走直连，游戏走加速通道，避免把所有流量一股脑代理。</p><h3>学习资料与公开资源访问</h3><p>课程平台、文档站点与代码托管访问时，稳定连接能减少中断。基础版即可覆盖轻度检索，资料下载量大时再考虑更高流量档。</p></div><div class=\"aside\"><h3>怎么选档位</h3><ul class=\"clean\"><li>轻度浏览：基础版 100GB / 3 设备</li><li>影音+游戏：旗舰版 300GB / 5 设备</li><li>工作室共用：团队版 1000GB / 20 设备</li><li>需要工单优先：关注旗舰版支持说明</li><li>需要客户经理：查看团队版服务</li></ul></div></div></section><section class=\"section\" id=\"guide\"><h2>操作说明</h2><div class=\"stagger\"><div class=\"col\" id=\"download\"><h3>客户端下载</h3><p>请从腾龙加速器官网获取对应系统的客户端，再导入机场订阅。常见终端包括 Windows、macOS、Android 与 iOS。路由器或透明代理方案适合把加速能力分享给家庭或工作室网络，但需要自行评估设备性能。</p><p>下载入口见本页导航「客户端下载」。安装完成后不要急于连接未知配置，先登录官网复制自己的订阅地址。</p><h3>导入机场订阅</h3><ol class=\"steps\"><li>在官网开通所需套餐并进入用户中心。</li><li>复制订阅链接，避免在聊天工具中反复转发造成泄露。</li><li>打开客户端，选择从 URL 添加订阅或更新订阅。</li><li>拉取节点列表，按延迟与负载选择线路后连接。</li></ol><h3>日常使用注意</h3><p>设备数以同时在线计算：基础版 3 台、旗舰版 5 台、团队版 20 台。流量按月重置。连接异常时先切换节点、检查系统时间与本地代理端口占用，再提交工单。</p></div><div class=\"aside\"><h3>下载核对</h3><ul class=\"clean\"><li>仅使用官网指引的安装包</li><li>系统版本与客户端架构匹配</li><li>导入订阅后先更新再连接</li><li>游戏可搭配分流规则</li><li>团队版可沟通定制路由</li></ul></div></div></section><section class=\"section\" id=\"faq\"><h2>常见问题</h2><p class=\"note\">以下问题覆盖官网下载、套餐差异、订阅导入与排障，便于快速对照。展开即可阅读完整说明。</p><details><summary>腾龙加速器官网如何下载客户端？怎样确认是官方渠道？</summary><p>通过本站顶部导航进入「客户端下载」章节，按 Windows、macOS、Android、iOS 选择说明。请以腾龙加速器官方网站展示的入口为准，不要安装来源不明的修改包，以免订阅泄露或设备异常。</p></details><details><summary>基础版、旗舰版和团队版应该如何选择？</summary><p>基础版每月 100GB、3 台设备，含基础流媒体与普通节点池，适合轻度使用。旗舰版每月 300GB、5 台设备，提供全节点原生流媒体解锁、IPLC 游戏优化与优先工单。团队版每月 1000GB、20 台设备，含 VIP 高带宽节点、企业定制路由与专属客户经理。年付价格分别为 ¥150/年、¥350/年、¥850/年。</p></details><details><summary>什么是机场订阅？在腾龙加速器里怎么用？</summary><p>机场订阅是一条可被主流客户端识别的配置地址，用于批量更新节点。开通套餐后在用户中心复制链接，到客户端中添加并更新即可。腾龙加速器的主题围绕订阅与客户端下载展开，导入成功后即可按延迟挑选线路。</p></details><details><summary>看流媒体失败或游戏延迟高怎么办？</summary><p>先确认套餐能力：基础版为解锁基础流媒体，旗舰版才覆盖全节点原生解锁与 IPLC 游戏优化。尝试更换节点、关闭冲突代理、校正系统时间。游戏建议仅代理必要进程，国内平台保持直连。</p></details><details><summary>流量用完或设备超限会怎样？如何升级？</summary><p>流量耗尽后新连接可能受限，需等待重置或升级套餐。同时在线超过 3/5/20 台时，多余终端可能无法保持会话。升级在用户中心完成，团队场景可联系专属客户经理调整路由与配额。</p></details><details><summary>客户端连不上，常见原因有哪些？</summary><p>订阅未更新、节点被临时封禁、本地时间不准、杀毒软件拦截 TUN/代理组件、端口被占用都较常见。可先更新订阅并更换线路，仍失败再通过旗舰版优先工单或团队版客户经理反馈日志。</p></details><details><summary>是否必须年付？月付和官网展示价格如何理解？</summary><p>不必必须年付。页面同时给出月价与年付价，便于对比。基础版 ¥15/月或 ¥150/年，旗舰版 ¥35/月或 ¥350/年，团队版 ¥85/月或 ¥850/年。先用月付验证线路是否符合自己的办公、影音或游戏需求，再决定是否年付。</p></details></section><section class=\"section\" id=\"sitemap\"><h2>网站地图</h2><nav class=\"sitemap\" aria-label=\"网站地图\"><a href=\"#about\">品牌简介</a><a href=\"#plans\">套餐方案</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">操作说明</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a><a href=\"#links\">广告与友链</a></nav></section><section class=\"section\" id=\"links\"><h2>广告与友链</h2><div class=\"ad\">合作展示位：欢迎网络设备、办公协作与内容平台与腾龙加速器官网洽谈文字合作，不放置跳转脚本或外部资源。</div><nav class=\"friends\" aria-label=\"友情链接\"><a href=\"#about\">关于腾龙加速器</a><a href=\"#plans\">套餐说明</a><a href=\"#guide\">订阅与下载</a><a href=\"#faq\">帮助中心</a><a href=\"#sitemap\">返回地图</a></nav></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><p>腾龙加速器官方网站 · 网络加速与客户端下载信息页</p><p>canonical: https://www.tenglongjs.com/</p><p>内容供了解套餐、场景与操作流程，请以实际开通规则为准。</p></footer>",
+          "hash": "3b9c6f661d2829197c837435082c8c9745eb6839e9a8607dcb18618591e9f58b",
+          "seo": {
+            "title": "腾龙加速器官方网站：高速梯子网络加速与客户端下载",
+            "keywords": "腾龙加速器,腾龙加速器官网,腾龙加速器下载,VPN,梯子,网络加速器,机场订阅,客户端下载,IPLC专线",
+            "description": "腾龙加速器是面向个人与团队的网络加速服务，提供多档套餐、机场订阅与全平台客户端下载，助力流媒体、游戏与跨境办公，欢迎访问官网了解套餐与使用方法。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "tfejc.cn",
+    "host": "p-771a40f576.tfejc.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "tfejc.cn",
+      "url": "https://tfejc.cn/",
+      "label": "TIGR",
+      "apex": "tfejc.cn",
+      "kind": null,
+      "identity": "jxedmwqn/page-0c6ce85bce43782fbbb4d65e"
+    },
+    {
+      "host": "evhfdgz.cn",
+      "url": "https://evhfdgz.cn/",
+      "label": "腾龙加速器",
+      "apex": "evhfdgz.cn",
+      "kind": null,
+      "identity": "fwsjtymby/page-bf031d52804d2a582fbc550d"
+    },
+    {
+      "host": "ewsntnp.cn",
+      "url": "https://ewsntnp.cn/",
+      "label": "腾龙加速器",
+      "apex": "ewsntnp.cn",
+      "kind": null,
+      "identity": "phynwd/page-96e2199c75d92d5fe9eff1bb"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "7b6a96fcb328623b1303ad67e23fe02514438b189cd5b815126f406bf38be1ad",
+    "sitemap.xml": "b6cdbd6ba1edb01696dea9eaad6a03bb0595f76185c8bb90d10ec218da7c9a77",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "c0e77dfefd4eab663309db2a6d65876bf440ab53b04c5f7e179b7dbcaae396f4",
+    "robots.txt": "40fd43abf9cfe17f9dc17d450bba09f90c26f1f50d3276b2e6da94686b04be2b",
+    "1168cf5bc76587b4c1e85f40531e7fb1.txt": "63a2b0611d15b02a5b7a96d0e45ea3b0be93a2d54bd5874e27682da65644fd35"
+  },
+  "revision": "dc82cd0324a79c59afaf79e4a4d4b155be32b3d94df0199cff787e3403b575c4"
+}
